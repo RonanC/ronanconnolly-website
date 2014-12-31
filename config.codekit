@@ -205,6 +205,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/port06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62809,
+		"inputAbbreviatedPath": "\/assets\/img\/port06.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/port06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/bootstrap.js": {
 		"fileType": 64,
 		"ignore": 0,
