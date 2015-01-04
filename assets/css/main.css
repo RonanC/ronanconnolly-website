@@ -92,18 +92,17 @@ a:after {
 }
 
 #topbar-inner {
-	/*background: rgba(35, 44, 54, 0.5);*/
 	background: #111;
 	line-height: 0;
 	text-align: center;
-	/*opacity: 0.5;*/
-
-	transition: all 0.5s ease-in;
+	opacity: 1;
+	/*background: rgba(35, 44, 54, 0.5);
+	transition: all 0.5s ease-in;*/
 }
 
 #topbar-inner:hover {
-	background: rgba(35, 44, 54, 1);
-	transition: all 0.5s ease-in;
+	/*background: rgba(35, 44, 54, 1);
+	transition: all 0.5s ease-in;*/
 }
 
 /*
@@ -144,14 +143,17 @@ a:after {
 	  text-decoration: none;
 	  border-left: 1px solid #111;
 	}
-
+!important
 	#section-topbar ul#nav .active a {
+		background: #222;
+		color: #222;
 		background: #44bbaa;
 		border-left: 1px solid #111;
 	}
 
 		#section-topbar ul#nav .active a:hover {
-			background: #44bbaa;
+			background: #222;
+			/*background: #44bbaa;*/
 		}
 #section-topbar i {
 	font-size: 25px;
@@ -198,15 +200,15 @@ a:after {
 	background: #2c3e50;
 	padding-top: 60px;
 	padding-bottom: 60px;
-	color: white;
+	/*color: white;*/
 } 
 
 #intro a:link, #intro a:active, #intro a:visited {
-	color: white;
+	/*color: white;*/
 }
 
 #intro a:hover{
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 #intro h5, p {
