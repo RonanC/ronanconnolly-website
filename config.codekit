@@ -269,6 +269,83 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/photoshop\/icons\/favicon-r-16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1052,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-16.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/icons\/favicon-r-24.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1187,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-24.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-24.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/icons\/favicon-r-32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1184,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-32.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-32.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/icons\/favicon-r-64-circle-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2359,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64-circle-small.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64-circle-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/icons\/favicon-r-64-circle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2391,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64-circle.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64-circle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/icons\/favicon-r-64.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1451,
+		"inputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64.png",
+		"outputAbbreviatedPath": "\/photoshop\/icons\/favicon-r-64.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/photoshop\/images\/header-bg GIMP.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.39145e+06,
+		"inputAbbreviatedPath": "\/photoshop\/images\/header-bg GIMP.jpg",
+		"outputAbbreviatedPath": "\/photoshop\/images\/header-bg GIMP.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/README.html": {
 		"fileType": 8192,
 		"ignore": 1,

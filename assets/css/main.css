@@ -1,9 +1,9 @@
- /* Author: Carlos Alvarez
- * URL: http://alvarez.is
+ /* Author: Ronan Connolly
+ * URL: http://www.ronanconnolly.ie
  *
- * Project Name: Kelvin - Free Bootstrap 3 Resume Theme
+ * Project Name: ronanconnolly.ie - Bootstrap Resume
  * Version: 1.0
- * URL: http://blacktie.co
+ * URL: http://www.ronanconnolly.ie
  */
 
 body {
@@ -350,6 +350,16 @@ sm {
 #social-links i{
 	padding-right: 10px;
 	font-size: 14pt;
+	transition: all 1s ease;
+
+	width: 30px;
+	display: inline-block;
+}
+
+#social-links i:hover{
+	padding-right: 10px;
+	font-size: 16pt;
+	transition: all 1s ease;
 }
 
 /*#work{
@@ -359,3 +369,15 @@ sm {
 /*#nav a:hover{
 	background-color: green;
 }*/
+
+#portfolio-image {
+	width: 70%;
+}
+
+.link-override {
+	color: white;
+}
+
+.link-override {
+	
+}
